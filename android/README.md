@@ -61,15 +61,16 @@ MVVM + Clean Architecture
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd movie-app/android
+   git clone https://github.com/widhvans/you.git
+   cd you/android
    ```
 
-2. **Download Google Fonts**
-   
-   Download and place in `app/src/main/res/font/`:
-   - [Outfit](https://fonts.google.com/specimen/Outfit): regular, medium, semibold, bold
-   - [Inter](https://fonts.google.com/specimen/Inter): regular, medium, semibold, bold
+2. **Open in Android Studio**
+   - Open Android Studio
+   - Click **File > Open**
+   - Select the `android` folder (NOT the root folder)
+   - Wait for Gradle sync to complete (may take a few minutes on first open)
+   - If prompted to install Android SDK components, click "Install"
 
 3. **Configure API URL**
    
@@ -79,9 +80,8 @@ MVVM + Clean Architecture
    ```
 
 4. **Build the app**
-   ```bash
-   ./gradlew assembleDebug
-   ```
+   - Click **Build > Make Project** or press **Ctrl+F9**
+   - Run on device using **Run > Run 'app'** or press **Shift+F10**
 
 ## 📂 Project Structure
 
