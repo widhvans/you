@@ -1,3 +1,6 @@
+# Ignore backend (user will push separately)
+backend/
+
 # Byte-compiled files
 __pycache__/
 *.py[cod]
