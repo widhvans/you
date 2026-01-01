@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Deep Dark Theme -->
+    <color name="background_primary">#FF0D0D0D</color>
+    <color name="background_secondary">#FF1A1A1A</color>
+    <color name="surface">#FF1A1A1A</color>
+    <color name="surface_variant">#FF2D2D2D</color>
+    <color name="surface_elevated">#FF262626</color>
+    
+    <!-- Accent Colors -->
+    <color name="primary">#FFE50914</color>
+    <color name="primary_variant">#FFB20710</color>
+    <color name="primary_light">#FFFF3D47</color>
+    <color name="secondary">#FFFFD700</color>
+    <color name="secondary_variant">#FFFFC000</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB3B3B3</color>
+    <color name="text_tertiary">#FF808080</color>
+    <color name="text_disabled">#FF4D4D4D</color>
+    
+    <!-- Overlay Colors -->
+    <color name="gradient_start">#00000000</color>
+    <color name="gradient_end">#E60D0D0D</color>
+    <color name="overlay">#80000000</color>
+    <color name="scrim">#CC000000</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#FF4CAF50</color>
+    <color name="warning">#FFFFC107</color>
+    <color name="error">#FFF44336</color>
+    <color name="info">#FF2196F3</color>
+    
+    <!-- Quality Badge Colors -->
+    <color name="badge_4k">#FFB388FF</color>
+    <color name="badge_hd">#FF64B5F6</color>
+    <color name="badge_cam">#FFFFB74D</color>
+    
+    <!-- Shimmer -->
+    <color name="shimmer_base">#FF2D2D2D</color>
+    <color name="shimmer_highlight">#FF3D3D3D</color>
+    
+    <!-- Player -->
+    <color name="player_background">#FF000000</color>
+    <color name="player_controls_background">#80000000</color>
+    <color name="seek_bar_played">#FFE50914</color>
+    <color name="seek_bar_buffered">#80FFFFFF</color>
+    <color name="seek_bar_unplayed">#40FFFFFF</color>
+</resources>
